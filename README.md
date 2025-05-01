@@ -1,2 +1,4 @@
 # New Project
-This project ws created from Local system.
+
+This project was created from Local system.
+Created by Mohit Choudhary.
